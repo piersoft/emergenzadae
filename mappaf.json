@@ -1,0 +1,3301 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.177244,
+                    40.350173
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "GIOVANNI ANTONIO ORSINI DEL BALZO",
+                "civico": "17",
+                "name": "ACI LECCE",
+                "id": "1",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:00-13:00",
+                "lunpomeriggio": "",
+                "marmattina": "08:00-13:00",
+                "marpomeriggio": "16:00-18:00",
+                "mermattina": "08:00-13:00",
+                "merpomeriggio": "",
+                "giomattina": "08:00-13:00",
+                "giopomeriggio": "16:00-18:00",
+                "venmattina": "08:00-13:00",
+                "venpomeriggio": "",
+                "sabmattina": "08:00-11:00",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.160083889961,
+                    40.342312440807
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "DANIELA E PAOLA BASTIANUTTI",
+                "civico": "35",
+                "name": "CHECK UP CENTRE",
+                "id": "2",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "09:00-13:00",
+                "lunpomeriggio": "16:00-19:00",
+                "marmattina": "09:00-13:00",
+                "marpomeriggio": "16:00-19:00",
+                "mermattina": "09:00-13:00",
+                "merpomeriggio": "16:00-19:00",
+                "giomattina": "09:00-13:00",
+                "giopomeriggio": "16:00-19:00",
+                "venmattina": "09:00-13:00",
+                "venpomeriggio": "16:00-19:00",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.182651996613,
+                    40.363876929231
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "SAN DOMENICO SAVIO",
+                "civico": "7",
+                "name": "CHIESA DEI SALESIANI",
+                "id": "3",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.168039321899,
+                    40.356878935492
+                ]
+            },
+            "properties": {
+                "toponimo": "PIAZZA",
+                "indirizzo": "ANGELO RIZZO",
+                "civico": "",
+                "name": "CIRCOLO TENNIS",
+                "id": "4",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:30-13:59",
+                "lunpomeriggio": "14:00-22:00",
+                "marmattina": "08:30-13:59",
+                "marpomeriggio": "14:00-22:00",
+                "mermattina": "08:30-13:59",
+                "merpomeriggio": "14:00-22:00",
+                "giomattina": "08:30-13:59",
+                "giopomeriggio": "14:00-22:00",
+                "venmattina": "08:30-13:59",
+                "venpomeriggio": "14:00-22:00",
+                "sabmattina": "08:30-13:59",
+                "sabpomeriggio": "14:00-22:00",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.182866573334,
+                    40.352055129079
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "95\u00b0 REGGIMENTO FANTERIA",
+                "civico": "70",
+                "name": "CLIOCOM",
+                "id": "5",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "09:00-13:00",
+                "lunpomeriggio": "15:00-19:00",
+                "marmattina": "09:00-13:00",
+                "marpomeriggio": "15:00-19:00",
+                "mermattina": "09:00-13:00",
+                "merpomeriggio": "15:00-19:00",
+                "giomattina": "09:00-13:00",
+                "giopomeriggio": "15:00-19:00",
+                "venmattina": "09:00-13:00",
+                "venpomeriggio": "15:00-19:00",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.183081150055,
+                    40.344450801364
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "CICOLELLA",
+                "civico": "3",
+                "name": "CONFCOMMERCIO",
+                "id": "6",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:30-13:30",
+                "lunpomeriggio": "15:00:00-18:30",
+                "marmattina": "08:30-13:30",
+                "marpomeriggio": "15:00:00-18:30",
+                "mermattina": "08:30-13:30",
+                "merpomeriggio": "15:00:00-18:30",
+                "giomattina": "08:30-13:30",
+                "giopomeriggio": "15:00:00-18:30",
+                "venmattina": "08:30-13:30",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.181077,
+                    40.3520763
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "95\u00b0 REGGIMENTO FANTERIA",
+                "civico": "53",
+                "name": "FARMACIA DE PACE LICIGNANO",
+                "id": "7",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:30-13:59",
+                "lunpomeriggio": "14:00-20:30",
+                "marmattina": "08:30-13:59",
+                "marpomeriggio": "14:00-20:30",
+                "mermattina": "08:30-13:59",
+                "merpomeriggio": "14:00-20:30",
+                "giomattina": "08:30-13:59",
+                "giopomeriggio": "14:00-20:30",
+                "venmattina": "08:30-13:59",
+                "venpomeriggio": "14:00-20:30",
+                "sabmattina": "08:30-13:59",
+                "sabpomeriggio": "14:00-20:30",
+                "dommattina": "10:30-13:00",
+                "dompomeriggio": "17:30-20:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.175055980682,
+                    40.343731207673
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "LEUCA",
+                "civico": "115",
+                "name": "FARMACIA ELIA",
+                "id": "8",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:30-13:00",
+                "lunpomeriggio": "17:00-20:30",
+                "marmattina": "08:30-13:00",
+                "marpomeriggio": "17:00-20:30",
+                "mermattina": "08:30-13:00",
+                "merpomeriggio": "17:00-20:30",
+                "giomattina": "08:30-13:00",
+                "giopomeriggio": "17:00-20:30",
+                "venmattina": "08:30-13:00",
+                "venpomeriggio": "17:00-20:30",
+                "sabmattina": "08:30-13:00",
+                "sabpomeriggio": "17:00-20:30",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.173114061356,
+                    40.352929980604
+                ]
+            },
+            "properties": {
+                "toponimo": "PIAZZA",
+                "indirizzo": "SANT'ORONZO",
+                "civico": "31",
+                "name": "FARMACIA FEROCINO",
+                "id": "9",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.192844390869,
+                    40.359200780292
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "DELLA LIBERTA'",
+                "civico": "170",
+                "name": "FARMACIA MESSA",
+                "id": "10",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.185720443726,
+                    40.356895286792
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "DELLA LIBERTA'",
+                "civico": "61",
+                "name": "FARMACIA MOSCHETTINI",
+                "id": "11",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:30-13:00",
+                "lunpomeriggio": "16:30-20:30",
+                "marmattina": "08:30-13:00",
+                "marpomeriggio": "16:30-20:30",
+                "mermattina": "08:30-13:00",
+                "merpomeriggio": "16:30-20:30",
+                "giomattina": "08:30-13:00",
+                "giopomeriggio": "16:30-20:30",
+                "venmattina": "08:30-13:00",
+                "venpomeriggio": "16:30-20:30",
+                "sabmattina": "08:30-13:00",
+                "sabpomeriggio": "16:30-20:00",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.180763721466,
+                    40.363762481906
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "COSIMO DE GIORGI",
+                "civico": "62",
+                "name": "HOTEL HILTON",
+                "id": "12",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "00:00-23:59",
+                "lunpomeriggio": "00:00-23:59",
+                "marmattina": "00:00-23:59",
+                "marpomeriggio": "00:00-23:59",
+                "mermattina": "00:00-23:59",
+                "merpomeriggio": "00:00-23:59",
+                "giomattina": "00:00-23:59",
+                "giopomeriggio": "00:00-23:59",
+                "venmattina": "00:00-23:59",
+                "venpomeriggio": "00:00-23:59",
+                "sabmattina": "00:00-23:59",
+                "sabpomeriggio": "00:00-23:59",
+                "dommattina": "00:00-23:59",
+                "dompomeriggio": "00:00-23:59"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.173789978027,
+                    40.347394513799
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "DI LEUCA",
+                "civico": "1",
+                "name": "ISTITUTO MAGISTRALE SICILIANI",
+                "id": "13",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:20-13:20",
+                "lunpomeriggio": "",
+                "marmattina": "08:20-13:20",
+                "marpomeriggio": "",
+                "mermattina": "08:20-13:20",
+                "merpomeriggio": "",
+                "giomattina": "08:20-13:20",
+                "giopomeriggio": "",
+                "venmattina": "08:20-13:20",
+                "venpomeriggio": "",
+                "sabmattina": "08:20-13:20",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.166161775589,
+                    40.354573362597
+                ]
+            },
+            "properties": {
+                "toponimo": "VIALE",
+                "indirizzo": "DELL'UNIVERSITA'",
+                "civico": "12",
+                "name": "LICEO CLASSICO PALMIERI",
+                "id": "14",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:00-14:00",
+                "lunpomeriggio": "",
+                "marmattina": "08:00-14:00",
+                "marpomeriggio": "",
+                "mermattina": "08:00-14:00",
+                "merpomeriggio": "",
+                "giomattina": "08:00-14:00",
+                "giopomeriggio": "",
+                "venmattina": "08:00-14:00",
+                "venpomeriggio": "",
+                "sabmattina": "08:00-14:00",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.197329044342,
+                    40.357483930925
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "VITTORIO BACHELET",
+                "civico": "35",
+                "name": "MUV",
+                "id": "15",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "07:30-13:59",
+                "lunpomeriggio": "14:00-22:00",
+                "marmattina": "07:30-13:59",
+                "marpomeriggio": "14:00-22:00",
+                "mermattina": "07:30-13:59",
+                "merpomeriggio": "14:00-22:00",
+                "giomattina": "07:30-13:59",
+                "giopomeriggio": "14:00-22:00",
+                "venmattina": "07:30-13:59",
+                "venpomeriggio": "14:00-22:00",
+                "sabmattina": "09:00-13:59",
+                "sabpomeriggio": "14:00-18:00",
+                "dommattina": "09:00-13:00",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.168296813965,
+                    40.361457144402
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "PIETRO INDINO",
+                "civico": "20",
+                "name": "PALAZZETTO DELLO SPORT MARIO STASI C.U.S. LECCE",
+                "id": "16",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "09:00-12:00",
+                "lunpomeriggio": "16:00-20:00",
+                "marmattina": "09:00-12:00",
+                "marpomeriggio": "16:00-20:00",
+                "mermattina": "09:00-12:00",
+                "merpomeriggio": "16:00-20:00",
+                "giomattina": "09:00-12:00",
+                "giopomeriggio": "16:00-20:00",
+                "venmattina": "09:00-12:00",
+                "venpomeriggio": "16:00-20:00",
+                "sabmattina": "09:00-12:00",
+                "sabpomeriggio": "16:00-20:00",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.172084093094,
+                    40.353739412561
+                ]
+            },
+            "properties": {
+                "toponimo": "VICO",
+                "indirizzo": "DEI FEDELE",
+                "civico": "3",
+                "name": "PALAZZO CARAFA",
+                "id": "17",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "07:00-14:00",
+                "lunpomeriggio": "",
+                "marmattina": "07:00-14:00",
+                "marpomeriggio": "",
+                "mermattina": "07:00-14:00",
+                "merpomeriggio": "",
+                "giomattina": "07:00-14:00",
+                "giopomeriggio": "",
+                "venmattina": "07:00-14:00",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.165593147278,
+                    40.347165562995
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "DON BOSCO",
+                "civico": "45",
+                "name": "PIGNATELLI CENTRO MEDICO",
+                "id": "18",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:30-12:00",
+                "lunpomeriggio": "16:00-19:00",
+                "marmattina": "08:30-12:00",
+                "marpomeriggio": "16:00-19:00",
+                "mermattina": "08:30-12:00",
+                "merpomeriggio": "16:00-19:00",
+                "giomattina": "08:30-12:00",
+                "giopomeriggio": "16:00-19:00",
+                "venmattina": "08:30-12:00",
+                "venpomeriggio": "16:00-19:00",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.166151046753,
+                    40.347574403171
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "MARTIRI D'OTRANTO",
+                "civico": "2",
+                "name": "PIGNATELLI LABORATORIO ANALISI",
+                "id": "19",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "07:30-13:00",
+                "lunpomeriggio": "17:30-18:00",
+                "marmattina": "07:30-13:00",
+                "marpomeriggio": "17:30-18:00",
+                "mermattina": "07:30-13:00",
+                "merpomeriggio": "17:30-18:00",
+                "giomattina": "07:30-13:00",
+                "giopomeriggio": "17:30-18:00",
+                "venmattina": "07:30-13:00",
+                "venpomeriggio": "17:30-18:00",
+                "sabmattina": "07:30-13:00",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.185741901398,
+                    40.349569507677
+                ]
+            },
+            "properties": {
+                "toponimo": "VIALE",
+                "indirizzo": "ROSSINI",
+                "civico": "110",
+                "name": "POLIZIA LOCALE",
+                "id": "20",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE A BORDO DEL MEZZO IN DOTAZIONE ALLA SEZIONE ANTINFORTUNISTICA",
+                "lunmattina": "00:00-23:59",
+                "lunpomeriggio": "00:00-23:59",
+                "marmattina": "00:00-23:59",
+                "marpomeriggio": "00:00-23:59",
+                "mermattina": "00:00-23:59",
+                "merpomeriggio": "00:00-23:59",
+                "giomattina": "00:00-23:59",
+                "giopomeriggio": "00:00-23:59",
+                "venmattina": "00:00-23:59",
+                "venpomeriggio": "00:00-23:59",
+                "sabmattina": "00:00-23:59",
+                "sabpomeriggio": "00:00-23:59",
+                "dommattina": "00:00-23:59",
+                "dompomeriggio": "00:00-23:59"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.134951591492,
+                    40.319783986381
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "SAN PIETRO IN LAMA KM3",
+                "civico": "",
+                "name": "RX CALABRESE",
+                "id": "21",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "09:00-13:59",
+                "lunpomeriggio": "14:00-16:00",
+                "marmattina": "09:00-13:59",
+                "marpomeriggio": "14:00-16:00",
+                "mermattina": "09:00-13:59",
+                "merpomeriggio": "14:00-16:00",
+                "giomattina": "09:00-13:59",
+                "giopomeriggio": "14:00-16:00",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.182544708252,
+                    40.355456357276
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "IMBRIANI",
+                "civico": "46",
+                "name": "SCUOLA MEDIA QUINTO ENNIO",
+                "id": "22",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:00-14:00",
+                "lunpomeriggio": "",
+                "marmattina": "08:00-14:00",
+                "marpomeriggio": "",
+                "mermattina": "08:00-14:00",
+                "merpomeriggio": "",
+                "giomattina": "08:00-14:00",
+                "giopomeriggio": "",
+                "venmattina": "08:00-14:00",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17337,
+                    40.35874
+                ]
+            },
+            "properties": {
+                "toponimo": "VIALE",
+                "indirizzo": "MICHELE DE PIETRO",
+                "civico": "",
+                "name": "TRIBUNALE PENALE",
+                "id": "23",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:30-12:30",
+                "lunpomeriggio": "",
+                "marmattina": "08:30-12:30",
+                "marpomeriggio": "",
+                "mermattina": "08:30-12:30",
+                "merpomeriggio": "",
+                "giomattina": "08:30-12:30",
+                "giopomeriggio": "",
+                "venmattina": "08:30-12:30",
+                "venpomeriggio": "",
+                "sabmattina": "08:30-12:30",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17058,
+                    40.36238
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "BRENTA",
+                "civico": "",
+                "name": "TRIBUNALE CIVILE",
+                "id": "24",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:30-12:30",
+                "lunpomeriggio": "",
+                "marmattina": "08:30-12:30",
+                "marpomeriggio": "",
+                "mermattina": "08:30-12:30",
+                "merpomeriggio": "",
+                "giomattina": "08:30-12:30",
+                "giopomeriggio": "",
+                "venmattina": "08:30-12:30",
+                "venpomeriggio": "",
+                "sabmattina": "08:30-12:30",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17089,
+                    40.36219
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "BRENTA",
+                "civico": "",
+                "name": "GIUDICE DI PACE",
+                "id": "25",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:00-13:00",
+                "lunpomeriggio": "",
+                "marmattina": "08:00-13:00",
+                "marpomeriggio": "15:00-16:00",
+                "mermattina": "08:00-13:00",
+                "merpomeriggio": "",
+                "giomattina": "08:00-13:00",
+                "giopomeriggio": "15:00-16:00",
+                "venmattina": "08:00-13:00",
+                "venpomeriggio": "",
+                "sabmattina": "08:00-13:00",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.192707,
+                    40.361181
+                ]
+            },
+            "properties": {
+                "toponimo": "PIAZZA",
+                "indirizzo": "DEL PALIO",
+                "civico": "63",
+                "name": "LICEO SCIENTIFICO G. BANZI BAZOLI",
+                "id": "26",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:00-14:00",
+                "lunpomeriggio": "",
+                "marmattina": "08:00-14:00",
+                "marpomeriggio": "",
+                "mermattina": "08:00-14:00",
+                "merpomeriggio": "",
+                "giomattina": "08:00-14:00",
+                "giopomeriggio": "",
+                "venmattina": "08:00-14:00",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.178756,
+                    40.346963
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "ANTONIO MIGLIETTA",
+                "civico": "",
+                "name": "I.I.S.S. A. DE PACE",
+                "id": "27",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:00-13:59",
+                "lunpomeriggio": "14:00-17:30",
+                "marmattina": "08:00-13:59",
+                "marpomeriggio": "14:00-17:30",
+                "mermattina": "08:00-13:59",
+                "merpomeriggio": "14:00-17:30",
+                "giomattina": "08:00-13:59",
+                "giopomeriggio": "14:00-17:30",
+                "venmattina": "08:00-13:59",
+                "venpomeriggio": "14:00-17:30",
+                "sabmattina": "08:00-13:59",
+                "sabpomeriggio": "14:00-17:30",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.194015,
+                    40.361185
+                ]
+            },
+            "properties": {
+                "toponimo": "PIAZZA",
+                "indirizzo": "DEL PALIO",
+                "civico": "1",
+                "name": "ISTITUTO TECNICO GRAZIA DELEDDA",
+                "id": "28",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.161824,
+                    40.351813
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "DALMAZIO BIRAGO",
+                "civico": "11",
+                "name": "FARMACIA DE PASCALIS",
+                "id": "29",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:30-13:30",
+                "lunpomeriggio": "15:30-20:30",
+                "marmattina": "08:30-13:30",
+                "marpomeriggio": "15:30-20:30",
+                "mermattina": "08:30-13:30",
+                "merpomeriggio": "15:30-20:30",
+                "giomattina": "08:30-13:30",
+                "giopomeriggio": "15:30-20:30",
+                "venmattina": "08:30-13:30",
+                "venpomeriggio": "15:30-20:30",
+                "sabmattina": "08:30-13:30",
+                "sabpomeriggio": "15:30-20:30",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.152092,
+                    40.354449
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "DALMAZIO BIRAGO",
+                "civico": "66",
+                "name": "MEDIC'S BIOMEDICA",
+                "id": "30",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "09:00-13:00",
+                "lunpomeriggio": "16:00-20:00",
+                "marmattina": "09:00-13:00",
+                "marpomeriggio": "16:00-20:00",
+                "mermattina": "09:00-13:00",
+                "merpomeriggio": "16:00-20:00",
+                "giomattina": "09:00-13:00",
+                "giopomeriggio": "16:00-20:00",
+                "venmattina": "09:00-13:00",
+                "venpomeriggio": "16:00-20:00",
+                "sabmattina": "09:00-13:00",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.184257,
+                    40.346069
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "ENZO SOZZO",
+                "civico": "11",
+                "name": "STUDIO MEDICO DOTT. MARIO GAZZABIN",
+                "id": "31",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "16:00-20:00",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "16:00-20:00",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.157813,
+                    40.35912
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "LUIGI EINAUDI",
+                "civico": "12",
+                "name": "ICOS",
+                "id": "32",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.16934,
+                    40.35245
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "VITTORIO EMANUELE II",
+                "civico": "16",
+                "name": "UFFICI COMUNALI PRESSO TEATINI",
+                "id": "33",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE ATTUALMENTE NON DISPONIBILE PER FURTO",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.15433,
+                    40.34752
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "GUGLIEMO MASSAGLIA",
+                "civico": "19",
+                "name": "CASERMA S. ZAPPALA\u2019 COMANDO SCUOLA DI CAVALLERIA ",
+                "id": "34",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "00:00-23:59",
+                "lunpomeriggio": "00:00-23:59",
+                "marmattina": "00:00-23:59",
+                "marpomeriggio": "00:00-23:59",
+                "mermattina": "00:00-23:59",
+                "merpomeriggio": "00:00-23:59",
+                "giomattina": "00:00-23:59",
+                "giopomeriggio": "00:00-23:59",
+                "venmattina": "00:00-23:59",
+                "venpomeriggio": "00:00-23:59",
+                "sabmattina": "00:00-23:59",
+                "sabpomeriggio": "00:00-23:59",
+                "dommattina": "00:00-23:59",
+                "dompomeriggio": "00:00-23:59"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.14832,
+                    40.34515
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "MONTERONI",
+                "civico": "",
+                "name": "CASERMA NACCI",
+                "id": "35",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "00:00-23:59",
+                "lunpomeriggio": "00:00-23:59",
+                "marmattina": "00:00-23:59",
+                "marpomeriggio": "00:00-23:59",
+                "mermattina": "00:00-23:59",
+                "merpomeriggio": "00:00-23:59",
+                "giomattina": "00:00-23:59",
+                "giopomeriggio": "00:00-23:59",
+                "venmattina": "00:00-23:59",
+                "venpomeriggio": "00:00-23:59",
+                "sabmattina": "00:00-23:59",
+                "sabpomeriggio": "00:00-23:59",
+                "dommattina": "00:00-23:59",
+                "dompomeriggio": "00:00-23:59"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.21516,
+                    40.35362
+                ]
+            },
+            "properties": {
+                "toponimo": "STRADA",
+                "indirizzo": "STRADA PROVINCIALE LECCE AEROPORTO TURISTICO LITORANEA SP 298",
+                "civico": "",
+                "name": "CENTRO IPPICO MILITARE FEDERIGO CAPRILLI SCUOLA DI CAVALLERIA",
+                "id": "36",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "00:00-23:59",
+                "lunpomeriggio": "00:00-23:59",
+                "marmattina": "00:00-23:59",
+                "marpomeriggio": "00:00-23:59",
+                "mermattina": "00:00-23:59",
+                "merpomeriggio": "00:00-23:59",
+                "giomattina": "00:00-23:59",
+                "giopomeriggio": "00:00-23:59",
+                "venmattina": "00:00-23:59",
+                "venpomeriggio": "00:00-23:59",
+                "sabmattina": "00:00-23:59",
+                "sabpomeriggio": "00:00-23:59",
+                "dommattina": "00:00-23:59",
+                "dompomeriggio": "00:00-23:59"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.184565,
+                    40.345593
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "EDOARDO DE CANDIA",
+                "civico": "35",
+                "name": "STUDIO ANALISI CLINICHE DE VITIS",
+                "id": "37",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "07:30-12:30",
+                "lunpomeriggio": "17:00-19:00",
+                "marmattina": "07:30-12:30",
+                "marpomeriggio": "17:00-19:00",
+                "mermattina": "07:30-12:30",
+                "merpomeriggio": "17:00-19:00",
+                "giomattina": "07:30-12:30",
+                "giopomeriggio": "17:00-19:00",
+                "venmattina": "07:30-12:30",
+                "venpomeriggio": "17:00-19:00",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.18325,
+                    40.33704
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "UMBRIA",
+                "civico": "",
+                "name": "CENTRO TKD OLIMPICO C\/O SEMINARIO",
+                "id": "38",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.18141,
+                    40.3511
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "FILIPPO TURATI",
+                "civico": "19",
+                "name": "STUDIO RADIOLOGICO QUARTA COLOSSO",
+                "id": "39",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:30-12:30",
+                "lunpomeriggio": "15:30-19:30",
+                "marmattina": "08:30-12:30",
+                "marpomeriggio": "15:30-19:30",
+                "mermattina": "08:30-12:30",
+                "merpomeriggio": "15:30-19:30",
+                "giomattina": "08:30-12:30",
+                "giopomeriggio": "15:30-19:30",
+                "venmattina": "08:30-12:30",
+                "venpomeriggio": "15:30-19:30",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.18315,
+                    40.35312
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "MATTEO RENATO IMBRIANI",
+                "civico": "13",
+                "name": "CRIO",
+                "id": "40",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "09:00-13:00",
+                "lunpomeriggio": "17:00-20:30",
+                "marmattina": "09:00-13:00",
+                "marpomeriggio": "17:00-20:30",
+                "mermattina": "09:00-13:00",
+                "merpomeriggio": "17:00-20:30",
+                "giomattina": "09:00-13:00",
+                "giopomeriggio": "17:00-20:30",
+                "venmattina": "09:00-13:00",
+                "venpomeriggio": "17:00-20:30",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1719,
+                    40.35972
+                ]
+            },
+            "properties": {
+                "toponimo": "VIALE",
+                "indirizzo": "MICHELE DE PIETRO",
+                "civico": "14",
+                "name": "LICEO SCIENTIFICO COSIMO DE GIORGI",
+                "id": "41",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:00-14:00",
+                "lunpomeriggio": "",
+                "marmattina": "08:00-14:00",
+                "marpomeriggio": "",
+                "mermattina": "08:00-14:00",
+                "merpomeriggio": "",
+                "giomattina": "08:00-14:00",
+                "giopomeriggio": "",
+                "venmattina": "08:00-14:00",
+                "venpomeriggio": "",
+                "sabmattina": "08:00-14:00",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.16062,
+                    40.35692
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "POZZUOLO",
+                "civico": "",
+                "name": "LICEO SCIENTIFICO COSIMO DE GIORGI - POLO DIDATTICO DISTACCATO",
+                "id": "42",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:00-14:00",
+                "lunpomeriggio": "",
+                "marmattina": "08:00-14:00",
+                "marpomeriggio": "",
+                "mermattina": "08:00-14:00",
+                "merpomeriggio": "",
+                "giomattina": "08:00-14:00",
+                "giopomeriggio": "",
+                "venmattina": "08:00-14:00",
+                "venpomeriggio": "",
+                "sabmattina": "08:00-14:00",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17321,
+                    40.36893
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "BELICE",
+                "civico": "",
+                "name": "ISTITUTO TECNICO COMMERCIALE I.I.S.S. FRANCESCO CALASSO",
+                "id": "43",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:00-13:59",
+                "lunpomeriggio": "14:00-20:00",
+                "marmattina": "08:00-13:59",
+                "marpomeriggio": "14:00-20:00",
+                "mermattina": "08:00-13:59",
+                "merpomeriggio": "14:00-20:00",
+                "giomattina": "08:00-13:59",
+                "giopomeriggio": "14:00-20:00",
+                "venmattina": "08:00-13:59",
+                "venpomeriggio": "14:00-20:00",
+                "sabmattina": "08:00-13:59",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.19246,
+                    40.36286
+                ]
+            },
+            "properties": {
+                "toponimo": "PIAZZA",
+                "indirizzo": "PALIO",
+                "civico": "",
+                "name": "PALAZZETTO DELLO SPORT GERMANO VENTURA",
+                "id": "44",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE ATTUALMENTE NON DISPONIBILE PER FURTO",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17512,
+                    40.36478
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "BASENTO",
+                "civico": "",
+                "name": "CENTRO SPORTIVO SANTA ROSA",
+                "id": "45",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "16:00-19:30",
+                "marmattina": "",
+                "marpomeriggio": "16:00-19:30",
+                "mermattina": "",
+                "merpomeriggio": "16:00-19:30",
+                "giomattina": "",
+                "giopomeriggio": "16:00-19:30",
+                "venmattina": "",
+                "venpomeriggio": "16:00-19:30",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17547,
+                    40.34282
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "DI LEUCA",
+                "civico": "133",
+                "name": "CASA DI CURA VILLA BIANCA",
+                "id": "46",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "00:00-23:59",
+                "lunpomeriggio": "00:00-23:59",
+                "marmattina": "00:00-23:59",
+                "marpomeriggio": "00:00-23:59",
+                "mermattina": "00:00-23:59",
+                "merpomeriggio": "00:00-23:59",
+                "giomattina": "00:00-23:59",
+                "giopomeriggio": "00:00-23:59",
+                "venmattina": "00:00-23:59",
+                "venpomeriggio": "00:00-23:59",
+                "sabmattina": "00:00-23:59",
+                "sabpomeriggio": "00:00-23:59",
+                "dommattina": "00:00-23:59",
+                "dompomeriggio": "00:00-23:59"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17848,
+                    40.34637
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "ANTONIO MIGLIETTA",
+                "civico": "5",
+                "name": "ASD SPORTING CLUB C\/O DIREZIONE GENERALE ASL LECCE EX OPIS",
+                "id": "47",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "15:30-19:30",
+                "marmattina": "",
+                "marpomeriggio": "15:30-19:30",
+                "mermattina": "",
+                "merpomeriggio": "15:30-19:30",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "15:30-19:30",
+                "sabmattina": "09:30-16:30",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.16457,
+                    40.34749
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "DON BOSCO",
+                "civico": "22",
+                "name": "LICEO MAGISTRALE SICILIANI SUCCURSALE",
+                "id": "48",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE ATTUALMENTE NON DISPONIBILE PER RISTRUTTURAZIONE EDIFICIO",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.177076,
+                    40.3661953
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "GIAMMATTEO",
+                "civico": "",
+                "name": "CAMPO CONI",
+                "id": "49",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE ",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1674785,
+                    40.3582437
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "VITO CARLUCCIO",
+                "civico": "1D",
+                "name": "SEDE UFFICI CONI",
+                "id": "50",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE ",
+                "lunmattina": "09:30-13:59",
+                "lunpomeriggio": "14:00-16:30",
+                "marmattina": "09:30-13:59",
+                "marpomeriggio": "14:00-16:30",
+                "mermattina": "09:30-13:59",
+                "merpomeriggio": "14:00-16:30",
+                "giomattina": "09:30-13:59",
+                "giopomeriggio": "14:00-16:30",
+                "venmattina": "09:30-13:30",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2000288,
+                    40.3559935
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "POTENZA",
+                "civico": "8",
+                "name": "ENEL",
+                "id": "51",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "00:00-23:59",
+                "lunpomeriggio": "00:00-23:59",
+                "marmattina": "00:00-23:59",
+                "marpomeriggio": "00:00-23:59",
+                "mermattina": "00:00-23:59",
+                "merpomeriggio": "00:00-23:59",
+                "giomattina": "00:00-23:59",
+                "giopomeriggio": "00:00-23:59",
+                "venmattina": "00:00-23:59",
+                "venpomeriggio": "00:00-23:59",
+                "sabmattina": "00:00-23:59",
+                "sabpomeriggio": "00:00-23:59",
+                "dommattina": "00:00-23:59",
+                "dompomeriggio": "00:00-23:59"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1724833,
+                    40.3445706
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "VENETO",
+                "civico": "36",
+                "name": "I.I.S.S. A. DE PACE SEDE CENTRALE",
+                "id": "52",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:00-13:59",
+                "lunpomeriggio": "14:00-21:00",
+                "marmattina": "08:00-13:59",
+                "marpomeriggio": "14:00-21:00",
+                "mermattina": "08:00-13:59",
+                "merpomeriggio": "14:00-21:00",
+                "giomattina": "08:00-13:59",
+                "giopomeriggio": "14:00-21:00",
+                "venmattina": "08:00-13:59",
+                "venpomeriggio": "14:00-21:00",
+                "sabmattina": "08:00-13:59",
+                "sabpomeriggio": "14:00-21:00",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1806765,
+                    40.3608395
+                ]
+            },
+            "properties": {
+                "toponimo": "VIALE",
+                "indirizzo": "GIACOMO LEOPARDI",
+                "civico": "116",
+                "name": "FARMACIA MIGALI",
+                "id": "53",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:30-13:59",
+                "lunpomeriggio": "14:00-22:30",
+                "marmattina": "08:30-13:59",
+                "marpomeriggio": "14:00-22:30",
+                "mermattina": "08:30-13:59",
+                "merpomeriggio": "14:00-22:30",
+                "giomattina": "08:30-13:59",
+                "giopomeriggio": "14:00-22:30",
+                "venmattina": "08:30-13:59",
+                "venpomeriggio": "14:00-22:30",
+                "sabmattina": "08:30-13:59",
+                "sabpomeriggio": "14:00-22:30",
+                "dommattina": "08:30-13:59",
+                "dompomeriggio": "14:00-22:30"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1743583,
+                    40.3524329
+                ]
+            },
+            "properties": {
+                "toponimo": "VIALE",
+                "indirizzo": "XXV LUGLIO",
+                "civico": "",
+                "name": "CASTELLO CARLO V INFO POINT",
+                "id": "54",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "09:00-13:59",
+                "lunpomeriggio": "14:00-20:30",
+                "marmattina": "09:00-13:59",
+                "marpomeriggio": "14:00-20:30",
+                "mermattina": "09:00-13:59",
+                "merpomeriggio": "14:00-20:30",
+                "giomattina": "09:00-13:59",
+                "giopomeriggio": "14:00-20:30",
+                "venmattina": "09:00-13:59",
+                "venpomeriggio": "14:00-20:30",
+                "sabmattina": "09:00-13:59",
+                "sabpomeriggio": "14:00-20:30",
+                "dommattina": "09:00-13:59",
+                "dompomeriggio": "14:00-20:30"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1360854,
+                    40.3280107
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "FIORENZO MAGNI",
+                "civico": "2",
+                "name": "CIRCOLO IPPICO IL DIRUPO",
+                "id": "55",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "07:30-12:00",
+                "lunpomeriggio": "17:30-20:30",
+                "marmattina": "07:30-12:00",
+                "marpomeriggio": "17:30-20:30",
+                "mermattina": "07:30-12:00",
+                "merpomeriggio": "17:30-20:30",
+                "giomattina": "07:30-12:00",
+                "giopomeriggio": "17:30-20:30",
+                "venmattina": "07:30-12:00",
+                "venpomeriggio": "17:30-20:30",
+                "sabmattina": "07:30-12:00",
+                "sabpomeriggio": "17:30-20:30",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1991101,
+                    40.3629523
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "SIRACUSA - ZONA 167 B",
+                "civico": "",
+                "name": "SCUOLA MEDIA STOMEO ZIMBALO",
+                "id": "56",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "07:30-13:59",
+                "lunpomeriggio": "14:00-18:00",
+                "marmattina": "07:30-13:59",
+                "marpomeriggio": "14:00-18:00",
+                "mermattina": "07:30-13:59",
+                "merpomeriggio": "14:00-18:00",
+                "giomattina": "07:30-13:59",
+                "giopomeriggio": "14:00-18:00",
+                "venmattina": "07:30-13:59",
+                "venpomeriggio": "14:00-18:00",
+                "sabmattina": "07:30-13:59",
+                "sabpomeriggio": "14:00-18:00",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3042592,
+                    40.3870247
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "AMERIGO VESPUCCI",
+                "civico": "11",
+                "name": "LIDO YORK SAN CATALDO",
+                "id": "57",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3055254,
+                    40.3911358
+                ]
+            },
+            "properties": {
+                "toponimo": "LUNGOMARE",
+                "indirizzo": "SEBASTIANO CABOTO",
+                "civico": "",
+                "name": "LIDO TURRISI SAN CATALDO",
+                "id": "58",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3048301,
+                    40.3918738
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "ANDREA DORIA",
+                "civico": "",
+                "name": "LIDO PEVERO BEACH SAN CATALDO",
+                "id": "59",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3032911,
+                    40.3929733
+                ]
+            },
+            "properties": {
+                "toponimo": "LUNGOMARE",
+                "indirizzo": "MARINAI D'ITALIA",
+                "civico": "",
+                "name": "LIDO SOLE LUNA SAN CATALDO",
+                "id": "60",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3022397,
+                    40.3933778
+                ]
+            },
+            "properties": {
+                "toponimo": "LUNGOMARE",
+                "indirizzo": "MARINAI D'ITALIA",
+                "civico": "",
+                "name": "LIDO PACHA MAMA SAN CATALDO",
+                "id": "61",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2981568,
+                    40.3959302
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "PALINURO (DARSENA)",
+                "civico": "",
+                "name": "LIDO PONTICELLO SAN CATALDO",
+                "id": "62",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2540488,
+                    40.4285587
+                ]
+            },
+            "properties": {
+                "toponimo": "LUNGOMARE",
+                "indirizzo": "ATTILIO MORI",
+                "civico": "",
+                "name": "LIDO SMERALDO FRIGOLE",
+                "id": "63",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2528467,
+                    40.4300908
+                ]
+            },
+            "properties": {
+                "toponimo": "LUNGOMARE",
+                "indirizzo": "ATTILIO MORI",
+                "civico": "",
+                "name": "LIDO LA STAFFA FRIGOLE",
+                "id": "64",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE DURANTE I MESI DI APERTURA DELLA STRUTTURA: GIUGNO\/10 SETTEMBRE",
+                "lunmattina": "08:00-13:59",
+                "lunpomeriggio": "14:00-23:59",
+                "marmattina": "08:00-13:59",
+                "marpomeriggio": "14:00-23:59",
+                "mermattina": "08:00-13:59",
+                "merpomeriggio": "14:00-23:59",
+                "giomattina": "08:00-13:59",
+                "giopomeriggio": "14:00-23:59",
+                "venmattina": "08:00-13:59",
+                "venpomeriggio": "14:00-23:59",
+                "sabmattina": "08:00-13:59",
+                "sabpomeriggio": "14:00-23:59",
+                "dommattina": "08:00-13:59",
+                "dompomeriggio": "14:00-23:59"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2525609,
+                    40.4304957
+                ]
+            },
+            "properties": {
+                "toponimo": "LUNGOMARE",
+                "indirizzo": "ATTILIO MORI",
+                "civico": "",
+                "name": "LIDO GRANCHIO ROSSO FRIGOLE",
+                "id": "65",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2483361,
+                    40.437637
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "C. BERGAMINI",
+                "civico": "",
+                "name": "LIDO PANTAREI FRIGOLE",
+                "id": "66",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2263061,
+                    40.4510463
+                ]
+            },
+            "properties": {
+                "toponimo": "STRADA PROV.LE",
+                "indirizzo": "FRIGOLE TORRE CHIANCA",
+                "civico": "",
+                "name": "LIDO STELLA TORRE CHIANCA",
+                "id": "67",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.194589,
+                    40.4674296
+                ]
+            },
+            "properties": {
+                "toponimo": "VIALE",
+                "indirizzo": "EOLO",
+                "civico": "4",
+                "name": "LIDO CIRCEO TORRE CHIANCA",
+                "id": "68",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE DURANTE I MESI DI APERTURA DELLA STRUTTURA: GIUGNO\/AGOSTO",
+                "lunmattina": "08:00-13:59",
+                "lunpomeriggio": "14:00-20:00",
+                "marmattina": "08:00-13:59",
+                "marpomeriggio": "14:00-20:00",
+                "mermattina": "08:00-13:59",
+                "merpomeriggio": "14:00-20:00",
+                "giomattina": "08:00-13:59",
+                "giopomeriggio": "14:00-20:00",
+                "venmattina": "08:00-13:59",
+                "venpomeriggio": "14:00-20:00",
+                "sabmattina": "08:00-13:59",
+                "sabpomeriggio": "14:00-20:00",
+                "dommattina": "08:00-13:59",
+                "dompomeriggio": "14:00-20:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1928173,
+                    40.467717
+                ]
+            },
+            "properties": {
+                "toponimo": "VIALE",
+                "indirizzo": "EOLO",
+                "civico": "",
+                "name": "LIDO APPRODO TORRE CHIANCA",
+                "id": "69",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1888702,
+                    40.4681134
+                ]
+            },
+            "properties": {
+                "toponimo": "BACINO",
+                "indirizzo": "TORRE CHIANCA",
+                "civico": "",
+                "name": "LIDO BACINO CAMBUSA TORRE CHIANCA",
+                "id": "70",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1863921,
+                    40.4688838
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "ITACA LIDO",
+                "civico": "",
+                "name": "LIDO KALU' SPIAGGIABELLA",
+                "id": "71",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1855403,
+                    40.4692115
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "DELLA PAVONCELLA",
+                "civico": "",
+                "name": "LIDO BACINO IDUME SPIAGGIABELLA",
+                "id": "72",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1841701,
+                    40.4696044
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "BIBIONE",
+                "civico": "",
+                "name": "LIDO POLE POLE BEACH SPIAGGIABELLA",
+                "id": "73",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1832294,
+                    40.4701776
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "IESOLO",
+                "civico": "",
+                "name": "LIDO DENISE SPIAGGIABELLA",
+                "id": "74",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1460729,
+                    40.4850326
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "LITORANEA SALENTINA SUD",
+                "civico": "",
+                "name": "VILLAGGIO CLUB TORRE RINALDA",
+                "id": "75",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2522,
+                    40.4309529
+                ]
+            },
+            "properties": {
+                "toponimo": "LUNGOMARE",
+                "indirizzo": "ATTILIO MORI",
+                "civico": "",
+                "name": "LIDO ESPOSITO",
+                "id": "76",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE DURANTE I MESI DI APERTURA DELLA STRUTTURA",
+                "lunmattina": "09:00-13:59",
+                "lunpomeriggio": "14:00-19:00",
+                "marmattina": "09:00-13:59",
+                "marpomeriggio": "14:00-19:00",
+                "mermattina": "09:00-13:59",
+                "merpomeriggio": "14:00-19:00",
+                "giomattina": "09:00-13:59",
+                "giopomeriggio": "14:00-19:00",
+                "venmattina": "09:00-13:59",
+                "venpomeriggio": "14:00-19:00",
+                "sabmattina": "09:00-13:59",
+                "sabpomeriggio": "14:00-19:00",
+                "dommattina": "09:00-13:59",
+                "dompomeriggio": "14:00-19:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1748729,
+                    40.3538766
+                ]
+            },
+            "properties": {
+                "toponimo": "PIAZZETTA",
+                "indirizzo": "BRIZIO DE SANTIS",
+                "civico": "10",
+                "name": "I.I.S.S. COSTA",
+                "id": "77",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:00-14:00",
+                "lunpomeriggio": "",
+                "marmattina": "08:00-14:00",
+                "marpomeriggio": "",
+                "mermattina": "08:00-14:00",
+                "merpomeriggio": "",
+                "giomattina": "08:00-14:00",
+                "giopomeriggio": "",
+                "venmattina": "08:00-14:00",
+                "venpomeriggio": "",
+                "sabmattina": "08:00-14:00",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.159767389297,
+                    40.35809300868
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "CAVALIERI DELL'ORDINE DI VITTORIO VENETO",
+                "civico": "31",
+                "name": "PALESTRA IL CERCHIO",
+                "id": "78",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:00-13:00",
+                "lunpomeriggio": "15:30-18:30",
+                "marmattina": "08:00-13:00",
+                "marpomeriggio": "15:30-18:30",
+                "mermattina": "08:00-13:00",
+                "merpomeriggio": "15:30-18:30",
+                "giomattina": "08:00-13:00",
+                "giopomeriggio": "15:30-18:30",
+                "venmattina": "08:00-13:00",
+                "venpomeriggio": "15:30-18:30",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.170126080513,
+                    40.363703214464
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "DOMENICO FONTANA",
+                "civico": "",
+                "name": "ISTITUTO COMPRENSIVO A. GALATEO - FRIGOLE",
+                "id": "79",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "07:30-13:59",
+                "lunpomeriggio": "14:00-19:30",
+                "marmattina": "07:30-13:59",
+                "marpomeriggio": "14:00-19:30",
+                "mermattina": "07:30-13:59",
+                "merpomeriggio": "14:00-19:30",
+                "giomattina": "07:30-13:59",
+                "giopomeriggio": "14:00-19:30",
+                "venmattina": "07:30-13:59",
+                "venpomeriggio": "14:00-19:30",
+                "sabmattina": "07:30-13:59",
+                "sabpomeriggio": "14:00-19:30",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1643802,
+                    40.3392534
+                ]
+            },
+            "properties": {
+                "toponimo": "VIALE",
+                "indirizzo": "GRASSI",
+                "civico": "",
+                "name": "POLIGONO DI TIRO",
+                "id": "80",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "09:00-12:00",
+                "merpomeriggio": "15.30-17:00",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "09:00-12:00",
+                "venpomeriggio": "15.30-17:00",
+                "sabmattina": "09:00-12:00",
+                "sabpomeriggio": "15.30-17:00",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1685557,
+                    40.3852883
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "ADRIATICA",
+                "civico": "3",
+                "name": "OUTLINE",
+                "id": "81",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1724748,
+                    40.3439696
+                ]
+            },
+            "properties": {
+                "toponimo": "VIALE",
+                "indirizzo": "MARCHE",
+                "civico": "12",
+                "name": "INPS LECCE",
+                "id": "82",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1857215,
+                    40.344372
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "MARUGI",
+                "civico": "29",
+                "name": "ISTITUTO TECNICO COMMERCIALE OLIVETTI",
+                "id": "83",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:00-13:00",
+                "lunpomeriggio": "",
+                "marmattina": "08:00-13:00",
+                "marpomeriggio": "",
+                "mermattina": "08:00-13:00",
+                "merpomeriggio": "",
+                "giomattina": "08:00-13:00",
+                "giopomeriggio": "",
+                "venmattina": "08:00-13:00",
+                "venpomeriggio": "",
+                "sabmattina": "08:00-13:00",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1715484,
+                    40.3520675
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "AUGUSTO IMPERATORE",
+                "civico": "35",
+                "name": "DEFIBRILLATORE PUBBLICO N. 1",
+                "id": "84",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "00:00-23:59",
+                "lunpomeriggio": "00:00-23:59",
+                "marmattina": "00:00-23:59",
+                "marpomeriggio": "00:00-23:59",
+                "mermattina": "00:00-23:59",
+                "merpomeriggio": "00:00-23:59",
+                "giomattina": "00:00-23:59",
+                "giopomeriggio": "00:00-23:59",
+                "venmattina": "00:00-23:59",
+                "venpomeriggio": "00:00-23:59",
+                "sabmattina": "00:00-23:59",
+                "sabpomeriggio": "00:00-23:59",
+                "dommattina": "00:00-23:59",
+                "dompomeriggio": "00:00-23:59"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1766756,
+                    40.3371415
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "RAFFAELLO SANZIO",
+                "civico": "51",
+                "name": "I.C. AMMIRATO FALCONE",
+                "id": "85",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:00-14:00",
+                "lunpomeriggio": "15:30-18:30",
+                "marmattina": "08:00-14:00",
+                "marpomeriggio": "15:30-18:30",
+                "mermattina": "08:00-14:00",
+                "merpomeriggio": "15:30-18:30",
+                "giomattina": "08:00-14:00",
+                "giopomeriggio": "15:30-18:30",
+                "venmattina": "08:00-14:00",
+                "venpomeriggio": "15:30-18:30",
+                "sabmattina": "08:00-14:00",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2116447,
+                    40.3437026
+                ]
+            },
+            "properties": {
+                "toponimo": "STRADA PROV.LE",
+                "indirizzo": "LECCE VERNOLE",
+                "civico": "KM 2",
+                "name": "POLISPORTIVA MATCH POINT",
+                "id": "86",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:00-13:59",
+                "lunpomeriggio": "14:00-23:00",
+                "marmattina": "08:00-13:59",
+                "marpomeriggio": "14:00-23:00",
+                "mermattina": "08:00-13:59",
+                "merpomeriggio": "14:00-23:00",
+                "giomattina": "08:00-13:59",
+                "giopomeriggio": "14:00-23:00",
+                "venmattina": "08:00-13:59",
+                "venpomeriggio": "14:00-23:00",
+                "sabmattina": "08:00-13:59",
+                "sabpomeriggio": "14:00-23:00",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1640484,
+                    40.3526872
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "EGIDIO REALE",
+                "civico": "59",
+                "name": "ISTITUTO COMPRENSIVO DANTE ALIGHERI-ARMANDO DIAZ",
+                "id": "87",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "07:00-14:00",
+                "lunpomeriggio": "",
+                "marmattina": "07:00-14:00",
+                "marpomeriggio": "",
+                "mermattina": "07:00-14:00",
+                "merpomeriggio": "",
+                "giomattina": "07:00-14:00",
+                "giopomeriggio": "",
+                "venmattina": "07:00-14:00",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2565181,
+                    40.425764
+                ]
+            },
+            "properties": {
+                "toponimo": "LUNGOMARE",
+                "indirizzo": "ATTILIO MORI",
+                "civico": "",
+                "name": "LIDO MOLO 13",
+                "id": "88",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "",
+                "marmattina": "",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "",
+                "venmattina": "",
+                "venpomeriggio": "",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1808158,
+                    40.3385287
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "CANTOBELLI",
+                "civico": "",
+                "name": "IV CIRCOLO SIGISMONDO CASTROMEDIANO",
+                "id": "89",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "07:00-13:59",
+                "lunpomeriggio": "14:00-16:30",
+                "marmattina": "07:00-13:59",
+                "marpomeriggio": "14:00-16:30",
+                "mermattina": "07:00-13:59",
+                "merpomeriggio": "14:00-16:30",
+                "giomattina": "07:00-13:59",
+                "giopomeriggio": "14:00-16:30",
+                "venmattina": "07:00-13:59",
+                "venpomeriggio": "14:00-16:30",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1298536,
+                    40.3778954
+                ]
+            },
+            "properties": {
+                "toponimo": "ZONA INDUSTRIALE",
+                "indirizzo": "ZONA 3 CELESTE",
+                "civico": "",
+                "name": "INTERFRUTTA",
+                "id": "90",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "07:00-14:00",
+                "lunpomeriggio": "",
+                "marmattina": "07:00-14:00",
+                "marpomeriggio": "",
+                "mermattina": "07:00-14:00",
+                "merpomeriggio": "",
+                "giomattina": "07:00-14:00",
+                "giopomeriggio": "",
+                "venmattina": "07:00-14:00",
+                "venpomeriggio": "",
+                "sabmattina": "07:00-12:00",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1779104,
+                    40.3545986
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "CESARE BATTISTI ",
+                "civico": "20\/B",
+                "name": "STUDIO DENTISTICO PETRILLO",
+                "id": "91",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "15:00-19:00",
+                "marmattina": "09:00-12:00",
+                "marpomeriggio": "",
+                "mermattina": "",
+                "merpomeriggio": "",
+                "giomattina": "",
+                "giopomeriggio": "15:00-19:00",
+                "venmattina": "",
+                "venpomeriggio": "15:00-19:00",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1675378,
+                    40.3532803
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "DASUMNO",
+                "civico": "10",
+                "name": "STUDIO DENTISTICO CALO'",
+                "id": "92",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "09:30-13:59",
+                "lunpomeriggio": "14:00-16:00",
+                "marmattina": "09:30-13:59",
+                "marpomeriggio": "14:00-16:00",
+                "mermattina": "09:30-13:59",
+                "merpomeriggio": "14:00-16:00",
+                "giomattina": "09:30-13:59",
+                "giopomeriggio": "14:00-16:00",
+                "venmattina": "09:30-13:59",
+                "venpomeriggio": "14:00-16:00",
+                "sabmattina": "09:30-13:59",
+                "sabpomeriggio": "14:00-16:00",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1181601,
+                    40.358065
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "STRADA PROV.LE LECCE NOVOLI",
+                "civico": "23",
+                "name": "COMUNITA' EMMANUEL LE SORGENTI",
+                "id": "93",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "09:00-13:59",
+                "lunpomeriggio": "14:00-15:00",
+                "marmattina": "09:00-13:59",
+                "marpomeriggio": "14:00-15:00",
+                "mermattina": "09:00-13:59",
+                "merpomeriggio": "14:00-15:00",
+                "giomattina": "09:00-13:59",
+                "giopomeriggio": "14:00-15:00",
+                "venmattina": "09:00-13:59",
+                "venpomeriggio": "14:00-15:00",
+                "sabmattina": "09:00-13:59",
+                "sabpomeriggio": "14:00-15:00",
+                "dommattina": "09:00-13:59",
+                "dompomeriggio": "14:00-15:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1012532,
+                    40.3605497
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "STRADA PROV.LE LECCE NOVOLI",
+                "civico": "49",
+                "name": "COMUNITA' EMMANUEL VILLA MARSELLO",
+                "id": "94",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:00-13:59",
+                "lunpomeriggio": "14:00-18:00",
+                "marmattina": "08:00-13:59",
+                "marpomeriggio": "14:00-18:00",
+                "mermattina": "08:00-13:59",
+                "merpomeriggio": "14:00-18:00",
+                "giomattina": "08:00-13:59",
+                "giopomeriggio": "14:00-18:00",
+                "venmattina": "08:00-13:59",
+                "venpomeriggio": "14:00-18:00",
+                "sabmattina": "08:00-13:59",
+                "sabpomeriggio": "14:00-18:00",
+                "dommattina": "08:00-13:59",
+                "dompomeriggio": "14:00-18:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1647116,
+                    40.3476499
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "LOMBARDIA",
+                "civico": "11",
+                "name": "ADISU LECCE RESIDENZA UNIVERSITARIA",
+                "id": "95",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "00:00-23:59",
+                "lunpomeriggio": "00:00-23:59",
+                "marmattina": "00:00-23:59",
+                "marpomeriggio": "00:00-23:59",
+                "mermattina": "00:00-23:59",
+                "merpomeriggio": "00:00-23:59",
+                "giomattina": "00:00-23:59",
+                "giopomeriggio": "00:00-23:59",
+                "venmattina": "00:00-23:59",
+                "venpomeriggio": "00:00-23:59",
+                "sabmattina": "00:00-23:59",
+                "sabpomeriggio": "00:00-23:59",
+                "dommattina": "00:00-23:59",
+                "dompomeriggio": "00:00-23:59"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1945798,
+                    40.3536488
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "CESARE ABBA",
+                "civico": "46",
+                "name": "LAICA LIBERA ASSOCIAZIONE DELLE IMPRESE DEL SALENTO",
+                "id": "96",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "09:00-13:00",
+                "lunpomeriggio": "17:00-19:00",
+                "marmattina": "09:00-13:00",
+                "marpomeriggio": "17:00-19:00",
+                "mermattina": "09:00-13:00",
+                "merpomeriggio": "17:00-19:00",
+                "giomattina": "09:00-13:00",
+                "giopomeriggio": "17:00-19:00",
+                "venmattina": "09:00-13:00",
+                "venpomeriggio": "17:00-19:00",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1825795,
+                    40.3447211
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "CICOLELLA",
+                "civico": "3",
+                "name": "PALESTRA EXCITE",
+                "id": "97",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "07:00-13:59",
+                "lunpomeriggio": "14:00-23:00",
+                "marmattina": "07:00-13:59",
+                "marpomeriggio": "14:00-23:00",
+                "mermattina": "07:00-13:59",
+                "merpomeriggio": "14:00-23:00",
+                "giomattina": "07:00-13:59",
+                "giopomeriggio": "14:00-23:00",
+                "venmattina": "07:00-13:59",
+                "venpomeriggio": "14:00-23:00",
+                "sabmattina": "07:00-13:59",
+                "sabpomeriggio": "14:00-19:00",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1578966,
+                    40.3609655
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "FRA NICOLO' DA LEQUILE",
+                "civico": "18",
+                "name": "PALESTRA EXCITE PURE STRENGTH",
+                "id": "98",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:00-13:59",
+                "lunpomeriggio": "14:00-23:00",
+                "marmattina": "08:00-13:59",
+                "marpomeriggio": "14:00-23:00",
+                "mermattina": "08:00-13:59",
+                "merpomeriggio": "14:00-23:00",
+                "giomattina": "08:00-13:59",
+                "giopomeriggio": "14:00-23:00",
+                "venmattina": "08:00-13:59",
+                "venpomeriggio": "14:00-23:00",
+                "sabmattina": "08:00-13:59",
+                "sabpomeriggio": "14:00-19:00",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1741015,
+                    40.3489256
+                ]
+            },
+            "properties": {
+                "toponimo": "VIALE",
+                "indirizzo": "OTRANTO",
+                "civico": "67",
+                "name": "ISTITUTO MARCELLINE",
+                "id": "99",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "08:30-12:00",
+                "lunpomeriggio": "16:00-19:00",
+                "marmattina": "08:30-12:00",
+                "marpomeriggio": "16:00-19:00",
+                "mermattina": "08:30-12:00",
+                "merpomeriggio": "16:00-19:00",
+                "giomattina": "08:30-12:00",
+                "giopomeriggio": "16:00-19:00",
+                "venmattina": "08:30-12:00",
+                "venpomeriggio": "16:00-19:00",
+                "sabmattina": "08:30-12:00",
+                "sabpomeriggio": "16:00-19:00",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1727687,
+                    40.3534013
+                ]
+            },
+            "properties": {
+                "toponimo": "PIAZZA",
+                "indirizzo": "SANT'ORONZO",
+                "civico": "43",
+                "name": "MCDONALD'S",
+                "id": "100",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "10:00-13:59",
+                "lunpomeriggio": "14:00-23:30",
+                "marmattina": "10:00-13:59",
+                "marpomeriggio": "14:00-23:30",
+                "mermattina": "10:00-13:59",
+                "merpomeriggio": "14:00-23:30",
+                "giomattina": "10:00-13:59",
+                "giopomeriggio": "14:00-23:30",
+                "venmattina": "10:00-13:59",
+                "venpomeriggio": "14:00-23:30",
+                "sabmattina": "10:00-13:59",
+                "sabpomeriggio": "14:00-23:30",
+                "dommattina": "10:00-13:59",
+                "dompomeriggio": "14:00-23:30"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.196739,
+                    40.367024
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "TERNI",
+                "civico": "4",
+                "name": "CENTRO SPORTIVO KOLBE",
+                "id": "101",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "16:00-23:00",
+                "marmattina": "",
+                "marpomeriggio": "16:00-23:00",
+                "mermattina": "",
+                "merpomeriggio": "16:00-23:00",
+                "giomattina": "",
+                "giopomeriggio": "16:00-23:00",
+                "venmattina": "",
+                "venpomeriggio": "16:00-23:00",
+                "sabmattina": "",
+                "sabpomeriggio": "16:00-23:00",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1627386,
+                    40.351552
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "DALMAZIO BIRAGO",
+                "civico": "SNC",
+                "name": "TRIBUNALE DEI MINORENNI",
+                "id": "102",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "09:00-13:00",
+                "lunpomeriggio": "",
+                "marmattina": "09:00-13:00",
+                "marpomeriggio": "",
+                "mermattina": "09:00-13:00",
+                "merpomeriggio": "15:00-17:00",
+                "giomattina": "09:00-13:00",
+                "giopomeriggio": "15:00-17:00",
+                "venmattina": "09:00-13:00",
+                "venpomeriggio": "",
+                "sabmattina": "09:00-13:00",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1788399,
+                    40.3583546
+                ]
+            },
+            "properties": {
+                "toponimo": "VIA",
+                "indirizzo": "GABRIELE D'ANNUNZIO",
+                "civico": "71",
+                "name": "SCUOLA DI DANZA IN PUNTA DI PIEDI",
+                "id": "103",
+                "descrizione": "POSTAZIONE CON DEFIBRILLATORE DAE",
+                "lunmattina": "",
+                "lunpomeriggio": "16:00-21:30",
+                "marmattina": "",
+                "marpomeriggio": "16:00-21:30",
+                "mermattina": "",
+                "merpomeriggio": "16:00-21:30",
+                "giomattina": "",
+                "giopomeriggio": "16:00-21:30",
+                "venmattina": "",
+                "venpomeriggio": "16:00-21:30",
+                "sabmattina": "",
+                "sabpomeriggio": "",
+                "dommattina": "",
+                "dompomeriggio": ""
+            }
+        }
+    ]
+}
